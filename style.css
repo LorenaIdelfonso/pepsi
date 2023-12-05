@@ -180,16 +180,6 @@ body {
     color: var(--color-p1);
   }
 
-  ::-webkit-scrollbar {
-    width: 10px;
-    background: var(--color-n7);
-  }
-  
-  ::-webkit-scrollbar-thumb {
-    background: var(--color-p1);
-    border-radius: 4px;
-  }
-
   .header-menu a::after {
     display: none;
   }
@@ -211,6 +201,7 @@ body {
   }
 
   .main h1 {
+    text-transform: initial;
     font-size: 6.4rem;
   }
   .main a {
