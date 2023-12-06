@@ -170,6 +170,26 @@ body {
   animation: anime 0.7s ease-in-out 0s infinite alternate;
 }
 
+.footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer p {
+  text-align: center;
+  color: #f5f7fa;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.8rem;
+}
+
+.footer a {
+  color: #1788cf;
+  text-decoration: underline;
+}
+
+.footer p i {
+  vertical-align: middle;
+}
 
 @media (max-width: 900px) {
   body {
