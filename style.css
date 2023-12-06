@@ -31,7 +31,7 @@ a {
   text-decoration: none;
 }
 
-i {
+.header-social i {
   font-size: 2.4rem; 
   color: var(--color-n1);
   transition: 0.3s;
