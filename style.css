@@ -183,12 +183,8 @@ body {
 }
 
 .footer a {
-  color: #1788cf;
+  color: var(--color-p1);
   text-decoration: underline;
-}
-
-.footer p i {
-  vertical-align: middle;
 }
 
 @media (max-width: 900px) {
